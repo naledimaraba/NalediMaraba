@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Naledi Maraba 
 
-<!--
-**naledimaraba/NalediMaraba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring AI & Machine Learning Engineer who enjoys building intelligent systems using real-world data.
 
-Here are some ideas to get you started:
+My GitHub portfolio focuses on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Machine Learning Projects
+* Data Analysis Projects
+* Real-world datasets
+* Software Development 
+* Practical AI applications
+* Cybersecurity
+
+---
+
+## Technical Skills
+
+Java | Python | Machine Learning | Data Analysis | Pandas | NumPy | Scikit-learn | SQL | Problem Solving 
+
+---
+
+## Featured Projects
+
+### Credit Card Fraud Detection
+
+Machine learning model that detects fraudulent credit card transactions using real-world data.
+
+### Symptoms Diagnosis
+
+Interactive Rule-Based AI Chatbot for Symptom Diagnosis
+
+
+
+---
+
+## Currently Learning
+
+Machine learning algorithms, data preprocessing, and real-world AI applications.
+
+---
+
+## Goal
+
+To become a professional AI / Machine Learning Engineer by building real-world projects and improving my technical skills.
